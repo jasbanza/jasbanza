@@ -1,6 +1,6 @@
 # Hey, I'm Jason
 
-**Interchain detective** at [Osmosis Labs](https://osmosis.zone) from Cape Town, South Africa.
+**Contributor** at [Osmosis Labs](https://osmosis.zone) from Cape Town, South Africa.
 
 I build tools and utilities for the Osmosis and Cosmos ecosystem.
 
