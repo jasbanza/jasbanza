@@ -2,7 +2,7 @@
 
 **Contributor** at [Osmosis Labs](https://osmosis.zone) from Cape Town, South Africa.
 
-I build tools and utilities for the Osmosis and Cosmos ecosystem.
+I also build tools and utilities for the Osmosis and Cosmos ecosystem:
 
 ## Pinned Projects
 
