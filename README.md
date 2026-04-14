@@ -20,6 +20,12 @@ I also build tools and utilities for the Osmosis and Cosmos ecosystem:
 
 Browse all my Osmosis & Cosmos utilities on the **[interactive dashboard](https://jasbanza.github.io/osmosis-utils/)**.
 
+## Gists
+| Title | Description |
+|---------|-------------|
+| [**Axelar GMP Rescue**](https://gist.github.com/jasbanza/64bf5a2405b1d6cf9931b58b07090e07) | Step by step guide to resume stuck Axelar GMP transfers|
+
+
 ## Links
 
 [![Twitter](https://img.shields.io/badge/@jasbanza-000?style=flat&logo=x&logoColor=white)](https://twitter.com/jasbanza)
