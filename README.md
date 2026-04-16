@@ -9,6 +9,7 @@ I also build tools and utilities for the Osmosis and Cosmos ecosystem:
 | Project | Description |
 |---------|-------------|
 | [**CCTP Relayer**](https://github.com/jasbanza/cctp-relayer) | CCTP relayer implementation |
+| [**Axelar GMP Recovery**](https://github.com/jasbanza/axelar-recovery) | Self-service browser tool for recovering stuck Axelar GMP cross-chain transfers |
 | [**Cosmos Chain Wallet Checker**](https://github.com/jasbanza/cosmos-chain-wallet-checker) | Checks wallet balances at specific block heights |
 | [**Osmosis Cancel Limitorders**](https://github.com/jasbanza/osmosis-cancel-limitorders) | Look up and cancel Osmosis limit orders |
 | [**Osmosis Tick Price**](https://github.com/jasbanza/osmosis-tick-price) | Get the price of a pool's tick on Osmosis |
